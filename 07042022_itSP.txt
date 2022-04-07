@@ -1,0 +1,13 @@
+Đầu việc
+  1.localshop: + Kiểm tra số dư TK
+                + Chương trình thi đua --> thông qua  tính năng đã Okla
+                + Sim trắng: thu hồi lại  luồng sim --> SQL.
+                + Xử lý phản ảnh về dữ liệu...--> SQL.
+  2.MyLocal: + Import ISDN -->SQL
+              + Import serial -->SQL
+              + Xuất báo cáo số liệu -->SQL
+              + Đồng bộ thuê bao đã cắt hủy.
+
+
+Hệ thống:
+  Database :  MariaDB (default)
